@@ -8,5 +8,5 @@ It consumes Weather API.
 A user enters a location i.e., place
 The user then submits the form by clicking the search button
 Upon successful fetching weather details of that particular location are displayed
-i.e., weather icon, name of location and temperature
+i.e., weather icon, name of location and temperature.
 
